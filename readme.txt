@@ -12,5 +12,5 @@ For the weather was used a api from http://openweathermap.org
 
 The big deal in this project was learning how to get a input from a user and respond with a information provided by the API. 
 
-For this I used body-parder and https modules and use/get/post/write/send/listen methods. 
+For this I used body-parser and https modules and use/get/post/write/send/listen methods. 
 
